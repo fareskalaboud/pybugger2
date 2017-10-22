@@ -1,10 +1,9 @@
-from distutils.core import setup
+from setuptools import setup, find_packages
 
 setup(
     name='pybugger2',
     version='0.6',
-    packages=['pybugger2'],
-    package_data={'pybugger2': ['*.txt']},
+    packages=find_packages(),
     url='https://github.com/fareskalaboud/pybugger2',
     license='GNU General Public License v3.0',
     author='fareskalaboud',
