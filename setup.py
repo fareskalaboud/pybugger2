@@ -1,11 +1,11 @@
 from distutils.core import setup
 
 setup(
-    name='pybugger',
-    version='1.0',
-    packages=['pybugger', 'pybugger'],
-    package_data={'pybugger': ['*.txt']},
-    url='https://github.com/fareskalaboud/pybugger',
+    name='pybugger2',
+    version='0.5',
+    packages=['pybugger2'],
+    package_data={'pybugger2': ['*.txt']},
+    url='https://github.com/fareskalaboud/pybugger2',
     license='GNU General Public License v3.0',
     author='fareskalaboud',
     author_email='fares.alaboud@gmail.com',
