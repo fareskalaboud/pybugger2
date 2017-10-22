@@ -21,7 +21,7 @@ An easy to use color debugging tool for **Python2**.
 
 **Color**|**Name**|**Color**|**Name**|**Color**|**Name**
 :-----:|:-----:|:-----:|:-----:|:-----:|:-----:
-![](/image/black.png)|black|![](/image/blue.png)|blue|!![](/image/yellow.png)|yellow
+![](/image/black.png)|black|![](/image/blue.png)|blue|![](/image/yellow.png)|yellow
 ![](/image/red.png)|red|![](/image/magenta.png)|magenta|![](/image/gray.png)|gray
 ![](/image/green.png)|green|![](/image/cyan.png)|cyan|![](/image/white.png)|white
 
