@@ -29,3 +29,4 @@ An easy to use color debugging tool for **Python2**.
 
 ### Thanks to:
 - `color_print` from [lazyme](https://github.com/alvations/lazyme/), by [@alvations](https://github.com/alvations/)
+- Contributions by [@kalbhor](https://github.com/kalbhor) and [@s0b0lev](https://github.com/s0b0lev)
