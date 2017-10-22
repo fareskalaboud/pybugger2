@@ -2,7 +2,7 @@ from distutils.core import setup
 
 setup(
     name='pybugger2',
-    version='0.5',
+    version='0.6',
     packages=['pybugger2'],
     package_data={'pybugger2': ['*.txt']},
     url='https://github.com/fareskalaboud/pybugger2',
