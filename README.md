@@ -1,6 +1,6 @@
 ![](/image/pybugger.png)
 
-An easy to use color debugging tool for **Python3**.
+An easy to use color debugging tool for **Python2**.
 
 ### How do I start using it?
 
